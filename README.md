@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Amo tecnlogia, natureza e ciência.
 -->
 
-## Oiii eu sou a Danilo Vasconcellos, criador de conteúdo de programação e tecnologia! 
+  ## Sou Danilo Vasconcellos, criador de conteúdo de programação e tecnologia! 
 <div align="left">
   <a href="https://github.com/M1l1CO">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=M1l1CO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
