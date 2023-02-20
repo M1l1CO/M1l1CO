@@ -10,15 +10,22 @@
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: Amo tecnlogia, natureza e ciência.
 -->
+##
+<div align="center"> 
+  Olá ! Sou Danilo Vasconcellos, Eu sou um analista de suporte a sistemas, atualmente trabalhando na Vidalink. Meu dia a dia consiste em sustentar aplicações web e mobile, fazendo análise e debug em diversas linguagens de programação, como C# plataforma .NET | HTML | CSS | JavaScript / JSON com Framework Bootstrap. Também      trabalho com tecnologias como micro-services e o Postman para teste de APIs, além de usar bancos de dados como Oracle PL/SQL, SQL e MongoDB para armazenamento de       dados. 
+</div>
 
-  ## Sou Danilo Vasconcellos, criador de conteúdo de programação e tecnologia! 
-<div align="left">
+<br>
+
+<div align="center">
   <a href="https://github.com/M1l1CO">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=M1l1CO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1l1CO&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
+##
+
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +40,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCnMrW3r2guW2mIM8vOTqz4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/daniloavasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniloaraujo.vasconcellos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
