@@ -14,7 +14,7 @@
 -->
 ##
 <div align="center"> 
-  Olá ! Sou Danilo Vasconcellos, Eu sou um analista de suporte a sistemas, atualmente trabalhando na Vidalink. Meu dia a dia consiste em sustentar aplicações web e mobile, fazendo análise e debug em diversas linguagens de programação, como C# plataforma .NET | HTML | CSS | JavaScript / JSON com Framework Bootstrap. Também      trabalho com tecnologias como micro-services e o Postman para teste de APIs, além de usar bancos de dados como Oracle PL/SQL, SQL e MongoDB para armazenamento de       dados. 
+  Hello! I'm a systems developer with robust experience in maintaining web and mobile applications. My daily routine is characterized by overcoming challenges and continually enhancing the systems I manage. I work with technologies such as C#, .NET, MVC, Restful API, Bootstrap, Oracle, PostgreSQL, MongoDB, GCP, Azure, and Git/Gitlab.
 </div>
 
 <br>
